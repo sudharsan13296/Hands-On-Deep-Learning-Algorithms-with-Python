@@ -2,7 +2,7 @@
 
 # [Chapter 5. Improvements to the RNN](#)
 
-* [5.1. LSTM to the Rescue](#)
+* 5.1. LSTM to the Rescue
 * 5.2. Understanding the LSTM cell
 	* 5.2.1. Forget Gate
 	* 5.2.2. Input Gate
@@ -17,7 +17,7 @@
 		* 5.5.2.1. Gradients with respect to V
 		* 5.5.2.2. Gradients with respect to W
 		* 5.5.2.3. Gradients with respect to U
-* [5.6. Predicting Bitcoins price using LSTM](#)
+* [5.6. Predicting Bitcoins price using LSTM](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/05.%20Improvements%20to%20the%20RNN/5.06%20Predicting%20Bitcoins%20price%20using%20LSTM%20RNN.ipynb)
 * 5.7. Gated Recurrent Units
 * 5.8. Understanding GRU cell
 	* 5.8.1. Update Gate
