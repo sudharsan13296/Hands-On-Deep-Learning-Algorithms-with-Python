@@ -11,7 +11,7 @@
 * 6.3. Math of CNN 
 	* 6.3.1. Forward Propagation
 	* 6.3.2. Backward Propagation
-* [ 6.4. Implementing CNN in tensorflow](#)
+* [ 6.4. Implementing CNN in tensorflow](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/06.%20Demystifying%20Convolutional%20Networks/6.04%20Implementing%20CNN%20in%20TensorFlow.ipynb)
 * 6.5. Different types of CNN architectures
 	* 6.5.1. LeNet 
 	* 6.5.2. AlexNet
@@ -25,4 +25,4 @@
 	* 6.6.2. Dynamic Routing Algorithm
 	* 6.6.3. Architecture of capsule network
 	* 6.6.4. Margin and Reconstrutction Loss
-*  [6.7. Building capsule networks in Tensorflow](#)
+*  [6.7. Building capsule networks in Tensorflow](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/06.%20Demystifying%20Convolutional%20Networks/6.07%20Building%20Capsule%20Networks%20in%20TensorFlow.ipynb)
