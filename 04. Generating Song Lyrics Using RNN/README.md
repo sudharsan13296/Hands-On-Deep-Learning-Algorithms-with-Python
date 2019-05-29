@@ -3,7 +3,7 @@
 # [Chapter 4. Generating Song lyrics with RNN](#)
 
 
-* [4.1. Hola Recurrent Neural Networks](#)
+* [4.1. Hola Recurrent Neural Networks](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/4.01%20Hola%20Recurrent%20Neural%20Networks.ipynb)
 	* 4.1. The difference between feedforward networks and RNN
 * 4.2. Forward Propagation in RNN 
 * 4.3. Backpropagation through time (BPTT) 
@@ -14,7 +14,7 @@
 * 4.5. Vanishing and Exploding Gradients
 	* 4.5.1. Vanishing Gradients
 	* 4.5.2. Exploding Gradients
-* [4.6. Generating song lyrics using RNN](#)
+* [4.6. Generating song lyrics using RNN](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/4.06%20Generating%20Song%20Lyrics%20Using%20RNN.ipynb)
 * 4.7. Different types of RNN architectures
 	* 4.7.1. One-to-One Architecture
 	* 4.7.2. One-to-Many Architecture
