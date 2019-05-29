@@ -6,7 +6,7 @@
 
 ## About the book
 <a target="_blank" href="https://www.amazon.com/gp/product/B07LH43V8P?pf_rd_p=019ad97c-f176-43be-96b9-991a6dc65763&pf_rd_r=X02K63S0YE0Z2S67N8AF">
-  <img src="./images/book_cover.jpg" alt="Book Cover" width="250" align="left"/>
+  <img src="./images/book_cover.png" alt="Book Cover" width="250" align="left"/>
 </a>
 
 Deep learning is one of the most popular domains in the artificial intelligence (AI) space, which allows you to develop multi-layered models of varying complexities. This book is designed to help you grasp things, from basic deep learning algorithms to the more advanced algorithms. The book is designed in a way that first you will understand the algorithm intuitively, once you have a basic understanding of the algorithms, then you will master the underlying math behind them effortlessly and then you will learn how to implement them using TensorFlow step by step.
