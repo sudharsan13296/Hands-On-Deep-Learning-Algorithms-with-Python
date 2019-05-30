@@ -3,7 +3,7 @@
 # [Chapter 5. Improvements to the RNN](#)
 
 * 5.1. LSTM to the Rescue
-* [5.2. Understanding the LSTM cell] (https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/05.%20Improvements%20to%20the%20RNN/5.02%20Understanding%20the%20LSTM%20cell.ipynb)
+* [5.2. Understanding the LSTM cell](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/05.%20Improvements%20to%20the%20RNN/5.02%20Understanding%20the%20LSTM%20cell.ipynb)
 * 5.3. Forward propagation in LSTM
 * 5.4. Backpropagation in LSTM
 * 5.5. Deriving backpropagation of LSTM Step by step
