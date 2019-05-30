@@ -2,7 +2,7 @@
 # [Chapter 7. Learning Text Representations](#)
 
 * [7.1. Understanding Word2vec Model](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/07.%20Learning%20Text%20Representations/7.01%20Understanding%20Word2vec%20Model.ipynb)
-* 7.2. Continuous Bag of words
+* [7.2. Continuous Bag of words](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/07.%20Learning%20Text%20Representations/7.02%20Continuous%20Bag%20of%20words.ipynb)
 * 7.3. Math of CBOW
 	* 7.3.1. Deriving Forward Propagation
 	* 7.3.2. Deriving Backward Propagation
