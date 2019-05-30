@@ -91,7 +91,7 @@ By the end of this book, you will be equipped with the skills you need to implem
 * 4.2. Forward Propagation in RNN 
 * 4.3. Backpropagation through time (BPTT) 
 * 4.4. Deriving BPTT step by step
-* 4.5. Vanishing and Exploding Gradients
+* [4.5. Vanishing and Exploding Gradients](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/4.05%20Vanishing%20and%20Exploding%20Gradients.ipynb)
 * [4.6. Generating song lyrics using RNN](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/04.%20Generating%20Song%20Lyrics%20Using%20RNN/4.06%20Generating%20Song%20Lyrics%20Using%20RNN.ipynb)
 * 4.7. Different types of RNN architectures
 
@@ -99,7 +99,7 @@ By the end of this book, you will be equipped with the skills you need to implem
 ### [5. Improvements to the RNN](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/05.%20Improvements%20to%20the%20RNN)
 
 * 5.1. LSTM to the Rescue
-* 5.2. Understanding the LSTM cell
+* [5.2. Understanding the LSTM cell](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/05.%20Improvements%20to%20the%20RNN/5.02%20Understanding%20the%20LSTM%20cell.ipynb)
 * 5.3. Forward propagation in LSTM
 * 5.4. Backpropagation in LSTM
 * 5.5. Deriving backpropagation of LSTM Step by step
@@ -109,7 +109,7 @@ By the end of this book, you will be equipped with the skills you need to implem
 * 5.9. Forward propagation in GRU cell
 * 5.10. Deriving backpropagation in GRU cell
 * 5.11. Implementing GRU cell in Tensorflow
-* 5.12. BiDirectional RNN
+* [5.12. BiDirectional RNN](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/05.%20Improvements%20to%20the%20RNN/5.12%20BiDirectional%20RNN.ipynb)
 * 5.13. Going Deep with Deep RNN 
 * 5.14. Language Translation Seq2seq models
 
@@ -128,7 +128,7 @@ By the end of this book, you will be equipped with the skills you need to implem
 ### [7. Learning Text Representations](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/07.%20Learning%20Text%20Representations)
 
 * [7.1. Understanding Word2vec Model](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/07.%20Learning%20Text%20Representations/7.01%20Understanding%20Word2vec%20Model.ipynb)
-* 7.2. Continuous Bag of words
+* [7.2. Continuous Bag of words](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/07.%20Learning%20Text%20Representations/7.02%20Continuous%20Bag%20of%20words.ipynb)
 * 7.3. Math of CBOW
 * 7.4. Skip- Gram model
 * 7.5. Math of Skip-Gram 
