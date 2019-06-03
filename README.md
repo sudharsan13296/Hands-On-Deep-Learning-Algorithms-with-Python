@@ -47,9 +47,9 @@ By the end of this book, you will be equipped with the skills you need to implem
 ### [1. Introduction to Deep Learning](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/01.%20Introduction%20to%20Deep%20Learning)
 
 * [1.1. What is Deep Learning?](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.01%20What%20is%20Deep%20Learning%3F.ipynb)
-* 1.2. Biological and Artifical Neurons
-* 1.3. ANN and its Layers
-* 1.4. Exploring Activation Functions
+* [1.2. Biological and Artifical Neurons](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.02%20Biological%20and%20Artificial%20Neurons.ipynb)
+* [1.3. ANN and its Layers](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.03%20ANN%20and%20its%20layers.ipynb)
+* [1.4. Exploring Activation Functions](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.04%20Exploring%20activation%20functions.ipynb)
 * 1.5. Forward Propagation in ANN
 * 1.6. How does ANN learn?	
 * 1.7. Debugging Gradient Descent with Gradient Checking 	
