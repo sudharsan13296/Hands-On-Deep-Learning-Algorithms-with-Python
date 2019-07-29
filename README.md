@@ -33,7 +33,7 @@ By the end of this book, you will be equipped with the skills you need to implem
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
-<a target="_blank" href="#">
+<a target="_blank" href="https://play.google.com/store/books/details/Sudharsan_Ravichandiran_Hands_On_Deep_Learning_Alg?id=8DqlDwAAQBAJ">
   <img src="./images/googleplay_logo.png" alt="Google Play" >
 </a>
 <br>
