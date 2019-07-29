@@ -29,7 +29,7 @@ By the end of this book, you will be equipped with the skills you need to implem
   <img src="./images/packt_logo.jpeg" alt="Packt" hieght=150, width=150 >
 </a>
 
-<a target="_blank" href="https://books.google.co.in/books?id=MYfDwQEACAAJ&dq=inauthor:%22SUDHARSAN.+RAVICHANDIRAN%22&hl=en&sa=X&ved=0ahUKEwjzxIXllrTiAhUDg-YKHXZiBzIQ6AEIPTAD">
+<a target="_blank" href="https://books.google.co.in/books?id=8DqlDwAAQBAJ&source=gbs_book_other_versions">
   <img src="./images/googlebooks_logo.png" alt="Google Books" 
 </a>
 
