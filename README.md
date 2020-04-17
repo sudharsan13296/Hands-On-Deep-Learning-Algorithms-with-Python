@@ -41,9 +41,6 @@ By the end of this book, you will be equipped with the skills you need to implem
 
 <br>
 
-
-#### For updates, follow me on Twitter ([@sudharsan13296](https://twitter.com/sudharsan13296)) and on LinkedIn ([Sudharsan Ravichandiran](https://www.linkedin.com/in/sudharsan1396/))
-
 ## Table of contents 
 
 ### [1. Introduction to Deep Learning](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/tree/master/01.%20Introduction%20to%20Deep%20Learning)
