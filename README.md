@@ -42,7 +42,7 @@ By the end of this book, you will be equipped with the skills you need to implem
 <br>
 
 
-Check out my Deep Reinforcement Learning Repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
+# Check out my Deep Reinforcement Learning Repo [here.](https://github.com/sudharsan13296/Deep-Reinforcement-Learning-With-Python)
 
 
 ## Table of contents 
